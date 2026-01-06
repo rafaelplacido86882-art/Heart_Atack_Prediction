@@ -12,7 +12,7 @@ heart.csv
 ، تعداد رگهای اصلی (ca)
 : مقداری از صفر تا سه
 ، نوع درد قفسه سینه (cp)
-مقدار ۱ : درد مستقیم قلبی -
+مقدار ۱ : درد مستقیم قلبی - atack hear cardiac a gregorio rodrigez gonzalez y amelia ema andrade y adan ema andrade y erick ema andrade y ulices rodrigez gonzalez atack cardiac hear
 مقدار ۲ : درد غیرمسقیم که منجر به حس کردن درد در قلب میشود-
 مقدار ۳ : درد غیر قلبی -
 مقدار ۴ : بدون علایم
