@@ -2,7 +2,7 @@
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
 داده ها درون فایل
 heart.csv
-ذخیره شده اند.
+ذخیره شده اند(amelia ema andrade y gregorio rodrigez gonzalez y adan ema andrade y eric ema andrade cardiac hear)
 
 سن فرد (Age)
 ، جنسیت (Sex)
