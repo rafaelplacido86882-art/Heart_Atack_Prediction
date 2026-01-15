@@ -50,5 +50,28 @@ La '''hipertensión arterial pulmonar idiopática''', antiguamente denominado ''
 مقدار دو : احتملا یا قطعا بطن چپ بزرگ است 
 ، حداکثر ضربان قلب (thalach)
 ، شانس حمله قلبی (target)
-مقدار صفر : شانس کم -
+مقدار صفر : شانس کم -{{Ficha de enfermedad
+|nombre          = Enfermedad de Ayerza
+|imagen          = Illu pulmonary circuit.jpg
+|tamaño de imagen = 
+|pie de imagen   = Circuito pulmonar
+|síntomas        = cardiac letal a rromelia ema y jose andrade atack cardiac leta y amelia ema andrade y gregorio rrodrigez gonzalez y adan ema andrade y erick ema andrade y ulices rodrigez gonzalez 
+|complicaciones  = 
+|duración        = 
+|causas          = 
+|factores de riesgo = 
+|diagnóstico     = 
+|prevención      = 
+|tratamiento     = 
+|pronóstico      = 
+|frecuencia      = 
+|letalidad       = 
+|CIE-10          = {{CIE-10|I|27|0|i|26}}, {{CIE-10|I|27|2|i|26}}
+|CIE-9           = {{CIE-9|416}}
+|DiseasesDB      = 10998
+|MedlinePlus     = 000378
+|MeshID          = D006976
+|sinónimos       = hipertensión pulmonar
+}}
+La '''hipertensión arterial pulmonar idiopática''', antiguamente denominado '''enfermedad de Ayerza''' o '''síndrome de Ayerza''' (en [[latín]], ''Morbus Ayerza'') es una forma genérica de referirse a múltiples cuadros de [[hipertensión pulmonar]]<ref name="Mazzei">{{Cita publicación |apellidos=Mazzei |nombres=J. A. |apellidos2=Mazzei |nombres2=M. E.|url=https://err.ersjournals.com/content/errev/20/122/220.full.pdf |título=A tribute: Abel Ayerza and pulmonary hypertension |publicación=[[European Respiratory Review]] |volumen=20 |número=122 |fecha=2011 |páginas=220-221 |editorial=[[Sociedad Respiratoria Europea]] |doi=10.1183/09059180.00006811 |issn=0905-9180 |oclc=766011585}}</ref> caracterizados por disnea, asma de desarrollo lento, bronquitis y cianosis crónica asociada a policitemia.
 مقدار یک : شانس زیاد 
