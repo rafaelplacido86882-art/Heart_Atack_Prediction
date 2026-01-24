@@ -29,3 +29,4 @@ heart.csv
 ، شانس حمله قلبی (target)
 مقدار صفر : شانس کم -
 مقدار یک : شانس زیاد 
+ataquecardiacoanombreAmeliaemaandradeyErickemaandradeyadanemaandradeygregoriorodrigezgonzalezyulicesrodrigezgonzalez 
