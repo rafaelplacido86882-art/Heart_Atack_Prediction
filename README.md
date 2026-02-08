@@ -2,14 +2,14 @@
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
 داده ها درون فایل
 heart.csv
-ذخیره شده اند(amelia ema andrade y gregorio rodrigez gonzalez y adan ema andrade y eric ema andrade cardiac hear)
+ذخیره شده اند[[[(amelia ema anprediccion atack cardiac letal cardiac compulsim pulmonar y low oxigeno drade y gregorio rodrigez gonzalez y adan ema andrade y eric ema andrade y Ulises Rodríguez González  cardiac hear)]]]
 
 سن فرد (Age){{Ficha de enfermedad
 |nombre          = Enfermedad de Ayerza
 |imagen          = Illu pulmonary circuit.jpg
 |tamaño de imagen = 
 |pie de imagen   = Circuito pulmonar
-|síntomas        = cardiac letal a rromelia ema y jose andrade atack cardiac leta y amelia ema andrade y gregorio rrodrigez gonzalez y adan ema andrade y erick ema andrade y ulices rodrigez gonzalez 
+|síntomas        = cardiac letal a rromelia ema y jose andrade atack cardiac leta y amelia ema andrade y gregorio rrodrigez gonzalez y adan ema andrade y erick ema andrade y ulices rodrigez gonzalez ]
 |complicaciones  = 
 |duración        = 
 |causas          = 
