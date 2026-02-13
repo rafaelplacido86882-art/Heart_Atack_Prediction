@@ -9,7 +9,7 @@ heart.csv
 |imagen          = Illu pulmonary circuit.jpg
 |tamaño de imagen = 
 |pie de imagen   = Circuito pulmonar
-|síntomas        = cardiac letal a rromelia ema y jose andrade atack cardiac leta y amelia ema andrade y gregorio rrodrigez gonzalez y adan ema andrade y erick ema andrade y ulices rodrigez gonzalez ]
+|síntomas        = cardiac letal a rromelia ema y jose andrade atack cardiac leta y amelia ema andrade y gregorio rrodrigez gonzalez y adan ema andrade y erick ema andrade y ulices rodrigez gonzalez ] ft all public Tijuana)
 |complicaciones  = 
 |duración        = 
 |causas          = 
