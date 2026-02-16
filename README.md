@@ -3,7 +3,28 @@
 داده ها درون فایل
 heart.csv
 ذخیره شده اند[[[(amelia ema anprediccion atack cardiac letal cardiac compulsim pulmonar y low oxigeno drade y gregorio rodrigez gonzalez y adan ema andrade y eric ema andrade y Ulises Rodríguez González  cardiac hear)]]]
+# Install build dependencies
+sudo apt install build-essential git cmake
 
+# Install third party C++ libraries
+sudo apt install libopencv-dev libboost-all-dev libeigen3-dev
+
+# Install python dependencies
+sudo apt install python-numpy python-scipy python-matplotlib python-opencv
+
+# Clone all the necessary repos
+git clone https://github.com/CPBridge/RIFeatures.git
+git clone https://github.com/CPBridge/monogenic.git
+git clone https://github.com/CPBridge/canopy.git
+git clone https://github.com/CPBridge/fetal_heart_analysis.git
+
+# Make a build directory
+mkdir build
+cd build
+
+# Run the build process
+cmake -D CANOPY_DIR=../canopy -D RIFEATURES_DIR=../RIFeatures -D MONOGENIC_DIR=../monogenic ../fetal_heart_analysis/cpp/
+make
 سن فرد (Age){{Ficha de enfermedad
 |nombre          = Enfermedad de Ayerza
 |imagen          = Illu pulmonary circuit.jpg
@@ -76,3 +97,25 @@ La '''hipertensión arterial pulmonar idiopática''', antiguamente denominado ''
 La '''hipertensión arterial pulmonar idiopática''', antiguamente denominado '''enfermedad de Ayerza''' o '''síndrome de Ayerza''' (en [[latín]], ''Morbus Ayerza'') es una forma genérica de referirse a múltiples cuadros de [[hipertensión pulmonar]]<ref name="Mazzei">{{Cita publicación |apellidos=Mazzei |nombres=J. A. |apellidos2=Mazzei |nombres2=M. E.|url=https://err.ersjournals.com/content/errev/20/122/220.full.pdf |título=A tribute: Abel Ayerza and pulmonary hypertension |publicación=[[European Respiratory Review]] |volumen=20 |número=122 |fecha=2011 |páginas=220-221 |editorial=[[Sociedad Respiratoria Europea]] |doi=10.1183/09059180.00006811 |issn=0905-9180 |oclc=766011585}}</ref> caracterizados por disnea, asma de desarrollo lento, bronquitis y cianosis crónica asociada a policitemia.
 مقدار یک : شانس زیاد 
 ataquecardiacoanombreAmeliaemaandradeyErickemaandradeyadanemaandradeygregoriorodrigezgonzalezyulicesrodrigezgonzalez 
+# Install build dependencies
+sudo apt install build-essential git cmake
+
+# Install third party C++ libraries
+sudo apt install libopencv-dev libboost-all-dev libeigen3-dev
+
+# Install python dependencies
+sudo apt install python-numpy python-scipy python-matplotlib python-opencv
+
+# Clone all the necessary repos
+git clone https://github.com/CPBridge/RIFeatures.git
+git clone https://github.com/CPBridge/monogenic.git
+git clone https://github.com/CPBridge/canopy.git
+git clone https://github.com/CPBridge/fetal_heart_analysis.git
+
+# Make a build directory
+mkdir build
+cd build
+
+# Run the build process
+cmake -D CANOPY_DIR=../canopy -D RIFEATURES_DIR=../RIFeatures -D MONOGENIC_DIR=../monogenic ../fetal_heart_analysis/cpp/
+make
