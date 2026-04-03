@@ -1,4 +1,4 @@
-# A classification project
+# A classification project atac cardiac a erick ema andrade y adan ema andrade cardiac acelered 999999999999999999999999999999999999999999999999999999999999999999999999999999mil pulsos por segundos cardiac letall
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
 داده ها درون فایل
 heart.csv
