@@ -1,7 +1,7 @@
 # A classification project
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
 داده ها درون فایل
-heart.csv
+heart.csv atack cardia a gregorio rodrigez gonzalez y ulñice rodrigez gonzalez y adan ema andrade y amelia ema andrade ygonzalop rodrigez 
 ذخیره شده اند.
 
 سن فرد (Age)
