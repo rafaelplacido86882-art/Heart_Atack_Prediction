@@ -1,4 +1,4 @@
-# A classification project
+atack heart cardiaco prediccion# A classification project
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
 داده ها درون فایل
 heart.csv
