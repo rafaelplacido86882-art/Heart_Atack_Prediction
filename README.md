@@ -1,6 +1,49 @@
 # A classification project
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
-داده ها درون فایل
+داده ها درون فایل#include <Wire.h>
+#include <Adafruit_Sensor.h>
+#include <Adafruit_BMP3XX.h>
+
+Adafruit_BMP3XX bmp; // Crear objeto del sensor
+
+void setup() {
+  Serial.begin(115200);
+  // La dirección I2C predeterminada es 0x77 (usa 0x76 si es necesario)
+  if (!bmp.begin_I2C()) {
+    Serial.println("Could not find a valid BMP388 sensor, check wiring!");
+    while (1);
+  }
+
+  // Configurar ajustes del sensor
+  bmp.setTemperatureOversampling(BMP3_OVERSAMPLING_8X);
+  bmp.setPressureOversampling(BMP3_OVERSAMPLING_4X);
+  bmp.setIIRFilterCoeff(BMP3_IIR_FILTER_COEFF_3);
+  bmp.setOutputDataRate(BMP3_ODR_50_HZ);
+}
+
+void loop() {
+  if (!bmp.performReading()) {
+    Serial.println("Failed to read from BMP388 sensor!");
+    return;
+  }
+
+  Serial.print("Temperature: ");
+  Serial.print(bmp.temperature);
+  Serial.println(" °C");
+
+  Serial.print("Pressure: ");
+  // Convertir Pa a hPa
+  Serial.print(bmp.pressure / 100.0);
+  Serial.println(" hPa");
+
+  Serial.print("Altitude: ");
+   // Referencia de presión a nivel del mar
+  Serial.print(bmp.readAltitude(1013.25));
+  Serial.println(" m");
+
+  delay(2000);
+}
+sensor de presión forceBrute 100000000megatonez
 heart.csv#include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BMP3XX.h>
