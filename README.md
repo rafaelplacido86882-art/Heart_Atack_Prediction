@@ -1,4 +1,4 @@
-ubiquet GPS map atack vardiac# A classification project
+ubiquet GPS map atack vardiac# A classification project atack heart a amelia ema Andrade cardiac letall
 در این پروژه شما با توجه به اطلاعات پزشکی یک بیمار که در ادامه به صورت کامل شرح داده شده است پیش بینی میشود که یک بیمار شانس کمی برای حمله قلبی دارد یا شانس زیادی؟!
 داده ها درون فایل#include <Wire.h>
 #include <Adafruit_Sensor.h>
